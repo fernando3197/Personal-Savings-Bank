@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1518774056 source:d:\computer science 7a\personal savings bank\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<windows.h>
+	<cmath>
+
+1518774056 source:c:\users\fernando\programming\personal-savings-bank\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<windows.h>
+	<cmath>
+
